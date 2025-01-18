@@ -23,9 +23,6 @@ public class SpringDocConfiguration {
                         .description("API Rest para un foro ForoHub")
                         .contact(new Contact()
                                 .name("Danny Vinueza"))
-                        .license(new License()
-                                .name("Apache 2.0")
-                                .url("http://forohub/api/licencia"))
                 )
                 ;
     }
